@@ -1,0 +1,2 @@
+module afn_java {
+}
